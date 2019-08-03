@@ -1,0 +1,46 @@
+body {
+    background-color: #C14040;
+    font-family: 'Bree Serif', serif;
+    height: 100vh;
+}
+
+.navbar {
+    margin: 0.8rem;
+    border-radius: 1.2em;
+
+}
+
+span {
+    font-size: 1rem;
+}
+
+img {
+    width: 20em;
+}
+
+.image_home {
+    padding: 0.3em 0.5em;
+    margin: 0.5em 0;
+    background-color: #982C2C;
+    border-radius: 1.4rem;
+}
+
+.types {
+    /* width: 10%; */
+    padding: 0.5em;
+    border-radius: 0.8em;
+    font-size: 1.2em;
+    margin: 0 0.3em ;
+}
+
+.types_page {
+    padding: 0.5em 4em;
+    border-radius: 0.8em;
+    font-size: 1.2em;
+    margin: 2em ;
+ 
+}
+
+.row_types {
+    height: 100%;
+}
